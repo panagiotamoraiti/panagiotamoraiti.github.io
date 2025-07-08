@@ -6,7 +6,7 @@ category: manuscripts
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-07-25
 venue: 'Democritus University of Thrace (DUTh)'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'https://drive.google.com/file/d/1DK9BP0utCmkkmUeTElhVgNIEqPZ7OXYR/view?usp=sharing'
 paperurl: 'https://drive.google.com/file/d/1GbQM4dtU-hiPv5iGilRl1_kHJ-4HBvYB/view'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
