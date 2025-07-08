@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-**Diploma & Integrated Master (M.Eng.) in Electrical and Computer Engineering**  
+**Integrated Master (M.Eng.) in Electrical and Computer Engineering**  
 *Democritus University of Thrace*
 
 Interested in robotics and artificial intelligence. Currently seeking opportunities to gain more knowledge in cutting-edge technologies.
