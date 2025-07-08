@@ -7,4 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Diploma & Integrated Master (M.Eng) in Electrical and Computer Engineering from Democritus University of Thrace. Interested in robotics and artificial intelligence. Currently seeking opportunities to gain more knowledge in cutting-edge technologies.
+## About Me
+
+**Diploma & Integrated Master (M.Eng.) in Electrical and Computer Engineering**  
+*Democritus University of Thrace*
+
+I am interested in robotics and artificial intelligence, and currently seeking opportunities to deepen my knowledge in cutting-edge technologies.
+
+### Areas of Interest
+
+- Computer Vision Applications (object detection, tracking, etc.)
+- Vision-Language Models (VLMs)
+- Robot Navigation through Visual Perception
+- Continual Learning
+- Domain Adaptation
