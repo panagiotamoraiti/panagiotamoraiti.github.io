@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Panagiota Moraiti - Robotics and Computer Vision Engineer - Personal Website"
+title: "Panagiota Moraiti - Robotics and Computer Vision Engineer"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ redirect_from:
 
 Interested in robotics and artificial intelligence. Currently seeking opportunities to gain more knowledge in cutting-edge technologies.
 
-### Areas of Interest
+## Areas of Interest
 
 - Computer Vision Applications (object detection, tracking, etc.)
 - Vision-Language Models (VLMs)
