@@ -72,9 +72,7 @@ redirect_from:
 
 - **[Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data - 4th Place Solution](https://arxiv.org/abs/2503.15697)**  
   *arXiv* — *Mar. 2025*  
-  - Achieved 4th place  
-  - Presented at the CLVision CVPR workshop  
-  [Workshop Site](https://sites.google.com/view/clvision2024)
+  Achieved 4th place and presented at the [CLVision CVPR workshop](https://sites.google.com/view/clvision2024)  
 
 - **[Mean Teacher with Stochastic Restoration and Contrastive Learning for Domain Adaptive Object Detection](https://dl.acm.org/doi/10.1145/3688671.3688755)**  
   *SETN, AI Conference* — *Dec. 2024*
