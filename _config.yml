@@ -30,6 +30,8 @@ author:
   employer         : "Tech Hive Labs"
   uri              : # URL
   email            : "panagiotamoraiti2@gmail.com" 
+  linkedin         : "p-moraiti"
+  github           : "panagiotamoraiti"
 
   # Academic websites
   academia         : # URL
@@ -46,7 +48,6 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "panagiotamoraiti"
   kaggle           : "giotamoraiti"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -61,7 +62,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "p-moraiti"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
