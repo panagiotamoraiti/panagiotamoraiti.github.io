@@ -29,24 +29,24 @@ redirect_from:
 ## 💼 Experience
 
 ### **Tech Hive Labs**, Athens, Greece  
-Research Engineer (*Sept. 2024 – Present*)  
+*Research Engineer* (*Sept. 2024 – Present*)  
 - Participated in European Union funded projects  
 - Developed industrial products  
 - Conducted hardware research  
 - Optimized models for edge devices
 
 ### **Athena Research Center**, Xanthi, Greece  
-Research Internship (*Jul. 2023 – Aug. 2023*)  
+*Research Internship* (*Jul. 2023 – Aug. 2023*)  
 - Simulated a robotic arm using ROS and Unity  
 - Developed and integrated object detection applications in Unity
 
 ### **Democritus Industrial Robotics**, Xanthi, Greece  
-Volunteer (*Aug. 2021 – Nov. 2022*)  
+*Volunteering* (*Aug. 2021 – Nov. 2022*)  
 - Implemented navigation algorithms using ROS  
 - Fine-tuned ROS parameters to enhance robot mobility
 
 ### **Democritus Racing Team**, Xanthi, Greece  
-Volunteer (*Nov. 2019 – Sept. 2021*)  
+*Volunteering* (*Nov. 2019 – Sept. 2021*)  
 - Created electrical drawings  
 - Developed low voltage circuits and PCBs
 
