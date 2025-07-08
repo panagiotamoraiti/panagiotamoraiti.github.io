@@ -68,23 +68,19 @@ Volunteer (*Nov. 2019 – Sept. 2021*)
 
 ## 📚 Publications
 
-- **IEEE/ASME AIM Conference** — *Jul. 2025*  
-  *A Comprehensive Framework for Automated Quality Control in the Automotive Industry*  
-  [DOI Link](https://dl.acm.org/doi/10.1145/3688671.3688755)
+- **[A Comprehensive Framework for Automated Quality Control in the Automotive Industry](https://dl.acm.org/doi/10.1145/3688671.3688755)**  
+  *IEEE/ASME AIM Conference* — *Jul. 2025*  
 
-- **arXiv** — *Mar. 2025*  
-  *Technical Report for the 5th CLVision Challenge at CVPR*  
+- **[Technical Report for the 5th CLVision Challenge at CVPR](https://arxiv.org/abs/2503.15697)**  
+  *arXiv* — *Mar. 2025*  
   - Achieved 4th place  
   - Presented at the CLVision CVPR workshop  
-  [arXiv Link](https://arxiv.org/abs/2503.15697)  
   [Workshop Site](https://sites.google.com/view/clvision2024)
 
-- **SETN, AI Conference** — *Dec. 2024*  
-  *Mean Teacher with Stochastic Restoration and Contrastive Learning for Domain Adaptive Object Detection*  
-  [DOI Link](https://dl.acm.org/doi/10.1145/3688671.3688755)
+- **[Mean Teacher with Stochastic Restoration and Contrastive Learning for Domain Adaptive Object Detection](https://dl.acm.org/doi/10.1145/3688671.3688755)**  
+  *SETN, AI Conference* — *Dec. 2024*
 
-- **Diploma Dissertation Thesis** — *Jul. 2024*  
-  *Continual Learning for Object Detection*  
-  [Google Drive Link](https://drive.google.com/file/d/1GbQM4dtU-hiPv5iGilRl1_kHJ-4HBvYB/view)
+- **[Continual Learning for Object Detection](https://drive.google.com/file/d/1GbQM4dtU-hiPv5iGilRl1_kHJ-4HBvYB/view)**  
+  *Diploma Dissertation Thesis* — *Jul. 2024*
 
 ---
