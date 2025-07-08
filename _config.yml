@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Panagiota Moraiti"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Panagiota Moraiti"
+description              : &description "Diploma & Integrated Master (M.Eng) in Electrical and Computer Engineering from Democritus University of Thrace. Interested in robotics and artificial intelligence. Currently seeking opportunities to gain more knowledge in cutting-edge technologies."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,21 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "/assets/photo.jpeg"
+  name             : "Panagiota Moraiti"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Robotics and Computer Vision Engineer"
+  location         : "Athens, Greece"
+  employer         : "Tech Hive Labs"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "panagiotamoraiti2@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=yT_aac8AAAAJ&hl=en&authuser=2"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-2394-1724"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
