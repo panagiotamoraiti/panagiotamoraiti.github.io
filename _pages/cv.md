@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Panagiota Moraiti"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Panagiota Moraiti  
-**Robotics and Computer Vision Engineer**  
+# Robotics and Computer Vision Engineer  
 📍 Athens, Greece  
 📧 [panagiotamoraiti2@gmail.com](mailto:panagiotamoraiti2@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/p-moraiti/) | [GitHub](https://github.com/panagiotamoraiti)
