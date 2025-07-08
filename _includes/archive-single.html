@@ -48,7 +48,7 @@
       <p style="margin-bottom: 0.2em;">
         Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
         {% if post.paperurl %}
-          — <a href="{{ post.paperurl }}">Download Paper</a>
+          &nbsp;<a href="{{ post.paperurl }}">Download Paper</a>
         {% endif %}
       </p>
     {% elsif post.date %}
