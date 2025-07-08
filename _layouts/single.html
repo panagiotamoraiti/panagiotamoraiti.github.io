@@ -30,64 +30,52 @@ layout: default
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
-          {% if page.modified %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
-          {% endif %}
-          
-          {% if page.collection == 'teaching' %}
-            <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% elsif page.venue and page.date %}
-            <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% elsif page.date %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-          {% endif %}    
+        {% if page.modified %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+        {% endif %}
+        
+        {% if page.collection == 'teaching' %}
+          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.venue and page.date %}
+          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.date %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+        {% endif %}    
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
 
+        {% comment %}
+        Citation and resource links block with Paper (left), Slides (center), Video (right) horizontally aligned.
+        {% endcomment %}
         {% if page.citation %}
-          <p style="font-size: smaller">
-            Recommended citation: {{ page.citation }}<br />
-            {% assign links = "" %}
-            {% if page.paperurl %}
-              {% assign links = links | append: '<a href="' | append: page.paperurl | append: '">Download Paper</a>' %}
-            {% endif %}
-            {% if page.slidesurl %}
-              {% if links != "" %}
-                {% assign links = links | append: " | " %}
-              {% endif %}
-              {% assign links = links | append: '<a href="' | append: page.slidesurl | append: '">View Slides</a>' %}
-            {% endif %}
-            {% if page.videourl %}
-              {% if links != "" %}
-                {% assign links = links | append: " | " %}
-              {% endif %}
-              {% assign links = links | append: '<a href="' | append: page.videourl | append: '">Watch Video</a>' %}
-            {% endif %}
-            {% if page.bibtexurl %}
-              {% if links != "" %}
-                {% assign links = links | append: " | " %}
-              {% endif %}
-              {% assign links = links | append: '<a href="' | append: page.bibtexurl | append: '">Download Bibtex</a>' %}
-            {% endif %}
-            {{ links | raw }}
+          <p style="font-size: smaller; margin-bottom: 0.5em;">
+            Recommended citation: {{ page.citation }}
           </p>
-        {% else %}
-          {% if page.paperurl %}
-            <p style="font-size: smaller"><a href="{{ page.paperurl }}">Download Paper</a></p>
-          {% endif %}
-          {% if page.slidesurl %}
-            <p style="font-size: smaller"><a href="{{ page.slidesurl }}">View Slides</a></p>
-          {% endif %}
-          {% if page.videourl %}
-            <p style="font-size: smaller"><a href="{{ page.videourl }}">Watch Video</a></p>
-          {% endif %}
-          {% if page.bibtexurl %}
-            <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-          {% endif %}
         {% endif %}
+
+        {% assign links = "" %}
+        <p style="font-size: smaller; display: flex; gap: 1em; flex-wrap: wrap; align-items: center; margin-top: 0;">
+
+          {% if page.paperurl %}
+            <a href="{{ page.paperurl }}" style="flex: 1; text-align: left;">Download Paper</a>
+          {% endif %}
+
+          {% if page.slidesurl %}
+            <a href="{{ page.slidesurl }}" style="flex: 1; text-align: center;">View Slides</a>
+          {% endif %}
+
+          {% if page.videourl %}
+            <a href="{{ page.videourl }}" style="flex: 1; text-align: right;">Watch Video</a>
+          {% endif %}
+
+          {% if page.bibtexurl %}
+            <a href="{{ page.bibtexurl }}" style="flex-basis: 100%; margin-top: 0.5em;">Download Bibtex</a>
+          {% endif %}
+
+        </p>
 
         {% if page.link %}
           <div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>
@@ -101,9 +89,7 @@ layout: default
         {% include page__taxonomy.html %}
       </footer>
 
-      {% if page.share %}
-        {% include social-share.html %}
-      {% endif %}
+      {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}
     </div>
