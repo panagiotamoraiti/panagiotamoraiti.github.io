@@ -6,7 +6,7 @@ category: manuscripts
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-12-27
 venue: 'SETN, AI Conference'
-# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+slidesurl: 'https://drive.google.com/file/d/1gLVk0At9F4ERdx0Os-nIiIWUMYic8HTo/view?usp=drive_link'
 paperurl: 'https://dl.acm.org/doi/10.1145/3688671.3688755'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
