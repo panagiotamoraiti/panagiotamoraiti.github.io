@@ -13,7 +13,7 @@ title                    : "Panagiota Moraiti"
 title_separator          : "-"
 name                     : &name "Panagiota Moraiti"
 description              : &description "Diploma & Integrated Master (M.Eng) in Electrical and Computer Engineering from Democritus University of Thrace. Interested in robotics and artificial intelligence. Currently seeking opportunities to gain more knowledge in cutting-edge technologies."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://panagiotamoraiti.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
