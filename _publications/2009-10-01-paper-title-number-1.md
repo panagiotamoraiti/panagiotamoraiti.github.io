@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 # permalink: /publication/2009-10-01-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-7-25
-# venue: 'Journal 1'
+date: 2024-07-25
+venue: 'Democritus University of Thrace (DUTh)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://drive.google.com/file/d/1GbQM4dtU-hiPv5iGilRl1_kHJ-4HBvYB/view'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
