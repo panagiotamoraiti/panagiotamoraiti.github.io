@@ -67,10 +67,10 @@ redirect_from:
 
 ## 📚 Publications
 
-- **[A Comprehensive Framework for Automated Quality Control in the Automotive Industry](https://dl.acm.org/doi/10.1145/3688671.3688755)**  
+- **A Comprehensive Framework for Automated Quality Control in the Automotive Industry**  
   *IEEE/ASME AIM Conference* — *Jul. 2025*  
 
-- **[Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data -- 4th Place Solution](https://arxiv.org/abs/2503.15697)**  
+- **[Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data - 4th Place Solution](https://arxiv.org/abs/2503.15697)**  
   *arXiv* — *Mar. 2025*  
   - Achieved 4th place  
   - Presented at the CLVision CVPR workshop  
