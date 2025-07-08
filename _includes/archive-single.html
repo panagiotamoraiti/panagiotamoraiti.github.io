@@ -53,7 +53,7 @@
       {% if post.slidesurl %}
         &nbsp;| <a href="{{ post.slidesurl }}">View Slides</a>
       {% endif %}
-     {% if post.videourl %}
+      {% if post.videourl %}
         &nbsp;| <a href="{{ post.videourl }}">Watch Video</a>
       {% endif %}
     </p>
@@ -64,9 +64,9 @@
       </p>
     {% endif %}
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
+    {% if post.excerpt and site.read_more != 'enabled' and post.link == nil %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
+    {% elsif post.excerpt and site.read_more == 'enabled' and post.link == nil %}
       <p class="archive__item-excerpt" itemprop="description">
         {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
         <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
