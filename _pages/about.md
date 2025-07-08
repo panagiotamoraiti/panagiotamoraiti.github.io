@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Panagiota Moraiti - Personal Website"
+title: "Panagiota Moraiti - Robotics and Computer Vision Engineer - Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ redirect_from:
 **Diploma & Integrated Master (M.Eng.) in Electrical and Computer Engineering**  
 *Democritus University of Thrace*
 
-I am interested in robotics and artificial intelligence, and currently seeking opportunities to deepen my knowledge in cutting-edge technologies.
+Interested in robotics and artificial intelligence. Currently seeking opportunities to gain more knowledge in cutting-edge technologies.
 
 ### Areas of Interest
 
