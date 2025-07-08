@@ -53,6 +53,9 @@
       {% if post.slidesurl %}
         &nbsp;| <a href="{{ post.slidesurl }}">View Slides</a>
       {% endif %}
+     {% if post.videourl %}
+        &nbsp;| <a href="{{ post.videourl }}">Watch Video</a>
+      {% endif %}
     </p>
     {% elsif post.date %}
       <p class="page__date">
