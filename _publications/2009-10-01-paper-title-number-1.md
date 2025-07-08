@@ -3,8 +3,8 @@ title: "Diploma Dissertation Thesis - Continual Learning for Object Detection"
 collection: publications
 category: manuscripts
 # permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-07-25
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2024-7-25
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://drive.google.com/file/d/1GbQM4dtU-hiPv5iGilRl1_kHJ-4HBvYB/view'
