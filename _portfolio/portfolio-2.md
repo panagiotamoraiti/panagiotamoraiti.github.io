@@ -1,6 +1,6 @@
 ---
 title: " Continual learning challenge 2024"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/CLVISION24.png'>"
 collection: portfolio
 ---
 
