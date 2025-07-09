@@ -64,19 +64,17 @@
       </p>
     {% endif %}
 
-    {% comment %}
-      Show excerpt ONLY on the individual post page (where current page URL matches post URL)
-    {% endcomment %}
-    {% if page.url == post.url %}
-      {% if post.excerpt and site.read_more != 'enabled' %}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-      {% elsif post.excerpt and site.read_more == 'enabled' %}
-        <p class="archive__item-excerpt" itemprop="description">
-          {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-          <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
-        </p>
-      {% endif %}
-    {% endif %}
+    {% if post.collection == "portfolio" %}
+  {% if post.excerpt and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+  {% elsif post.excerpt and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">
+      {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+      <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
+    </p>
+  {% endif %}
+{% endif %}
+
     
   </article>
 </div>
