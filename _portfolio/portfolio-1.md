@@ -1,21 +1,22 @@
 ---
 title: " Jaco Robotic Arm - Unity Simulation"
-excerpt: "We developed a simulation pipeline for a Kinova Jaco 6‑DOF robotic arm, integrating Unity and ROS with computer vision to complete real-world tasks like **leaf disease detection** and **garbage sorting**.<br/><img src='/images/jaco arm.png'>"
+excerpt: "We developed a simulation pipeline for a Kinova Jaco 6‑DOF robotic arm, integrating Unity and ROS with computer vision to perform real-world tasks like **leaf disease detection** and **garbage sorting**.<br/><img src='/images/jaco arm.png'>"
 collection: portfolio
 image: /images/jaco arm.png
+date: 2024-08-25
 ---
 
 ## Jaco Robotic Arm – Pick & Place with Computer Vision 🤖
 
 **Internship Project @ Athena RC**  
-We developed a simulation pipeline for a Kinova Jaco 6‑DOF robotic arm, integrating Unity and ROS with computer vision to complete real-world tasks like **leaf disease detection** and **garbage sorting**.
+We developed a simulation pipeline for a Kinova Jaco 6‑DOF robotic arm, integrating Unity and ROS with computer vision to perform real-world tasks like **leaf disease detection** and **garbage sorting**.
 
 ---
 
 ### 🎯 What We Did
 
 - **Unity + ROS Integration**  
-  - Used Unity and ROS Noetic/Melodic to simulate and control the robotic arm  
+  - Utilized Unity and ROS Noetic/Melodic to simulate and control the robotic arm  
   - Employed Gazebo and RViz for physics-based motion planning
 
 - **Three Interactive Scenarios in Unity**  
