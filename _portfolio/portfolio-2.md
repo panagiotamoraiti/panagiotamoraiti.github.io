@@ -20,6 +20,8 @@ It is fair to assume that data is not cheap to acquire, store and label in real-
 
 ### 🎯 Challenge Highlights
 
+- **Challenge focuses on classification task**
+
 - **Methodologies Explored**  
   - Developed and modified state-of-the-art continual learning algorithms  
   - Tackled issues like catastrophic forgetting  
