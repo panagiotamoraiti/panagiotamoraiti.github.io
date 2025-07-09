@@ -45,6 +45,9 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+      {% if page.image %}
+  <img src="{{ page.image }}" alt="{{ page.title }}" style="max-width: 100%; margin-bottom: 1em;">
+{% endif %}
         {{ content }}
 
         {% comment %}
