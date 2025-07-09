@@ -1,5 +1,5 @@
 ---
-title: " Continual learning challenge 2024"
+title: " Continual Learning Challenge - CVPR 2024"
 excerpt: "We participated in the Continual Learning Challenge 2024, aiming at pushing the boundaries of continual learning techniques, addressing catastrophic forgetting, and improving model adaptation on sequential vision tasks. <br/><img src='/images/CLVISION24.png'>"
 collection: portfolio
 image: /images/CLVISION24.png
