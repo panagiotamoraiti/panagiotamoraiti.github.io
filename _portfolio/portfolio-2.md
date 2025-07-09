@@ -6,10 +6,15 @@ image: /images/CLVISION24.png
 date: 2025-05-15
 ---
 
-## Continual Learning Challenge 2024 🧠📊
+## 🧠📊 Continual Learning Challenge - CLVISION 2024 - 5th CLVISION CVPR Workshop
 
 **Challenge Participation**  
 We participated in the Continual Learning Challenge 2024, aiming at pushing the boundaries of continual learning techniques, addressing catastrophic forgetting, and improving model adaptation on sequential vision tasks.
+
+---
+
+### 💡 Challenge Overview
+It is fair to assume that data is not cheap to acquire, store and label in real-world machine learning applications. Therefore, it is crucial to develop strategies that are flexible enough to learn from streams of experiences, without forgetting what has been learned previously. Additionally, contextual unlabelled data can also be exploited to integrate additional information into the model.
 
 ---
 
