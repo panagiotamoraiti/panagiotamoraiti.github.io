@@ -40,8 +40,8 @@ Key outcomes:
 
 ### 🎥 Demo Videos & Slides
 
-- [Garbage Sorting Simulation Video](https://drive.google.com/file/d/1KkFC5mtiECOUgZAe5CMMlZ-bYlGMsfn2/view?usp=drive_link)  
 - [Leaf Disease Detection Video](https://drive.google.com/file/d/1KcnfoBml8yjMZkK4ETeOFOiaGNPjyUAC/view?usp=drive_link)  
+- [Garbage Sorting Simulation Video](https://drive.google.com/file/d/1KkFC5mtiECOUgZAe5CMMlZ-bYlGMsfn2/view?usp=drive_link)  
 - [Garbage Sorting Real-Time Demo](https://drive.google.com/file/d/1LWCiw18cd1Lzat9qnH5sRMG0LdKP1lq1/view?usp=drive_link)  
 - [Project Slides](https://drive.google.com/file/d/1y2VdextpZ5oyp_VUOieKt_HjbbxJ2swg/view?usp=drive_link)
 

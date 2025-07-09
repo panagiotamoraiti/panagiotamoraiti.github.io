@@ -1,9 +1,54 @@
 ---
 title: " Continual learning challenge 2024"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/CLVISION24.png'>"
+excerpt: "We participated in the Continual Learning Challenge 2024, aiming at pushing the boundaries of continual learning techniques, addressing catastrophic forgetting, and improving model adaptation on sequential vision tasks. <br/><img src='/images/CLVISION24.png'>"
 collection: portfolio
 image: /images/CLVISION24.png
 date: 2025-05-15
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Continual Learning Challenge 2024 🧠📊
+
+**Challenge Participation**  
+We participated in the Continual Learning Challenge 2024, aiming at pushing the boundaries of continual learning techniques, addressing catastrophic forgetting, and improving model adaptation on sequential vision tasks.
+
+---
+
+### 🎯 Challenge Highlights
+
+- **Methodologies Explored**  
+  - Developed and modified state-of-the-art continual learning algorithms  
+  - Tackled issues like catastrophic forgetting  
+  - Utilized unsupervised techniques, such as pseudo-labeling to harness unlabelled data
+
+- **Focus on Vision Tasks**  
+  - Applied continual learning techniques to image classification and segmentation tasks  
+  - Leveraged recent advances in neural network architectures to improve performance  
+
+---
+
+### 🚀 Impact & Learnings
+
+- Enhanced understanding of continual learning challenges in practical scenarios  
+- Gained hands-on experience with the latest methods and metrics in lifelong learning  
+- Contributed to open-source frameworks and challenge leaderboards  
+
+---
+
+### 📄 Paper
+
+- [Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data - 4th Place Solution (arXiv)](https://arxiv.org/abs/2503.15697) 
+
+---
+
+### 🎥 Slides & Video Presentation
+
+- [Slides (Google Drive)](https://drive.google.com/file/d/1Mkacx4i0VreI_Zceod7Jrc4TJJ08VG87/view?usp=drive_link)  
+- [Video Presentation (Google Drive)](https://drive.google.com/file/d/15bXLzPjYiOdZcdnyxudpPCxTrmuyIVdQ/view?usp=drive_link)  
+
+---
+
+### 🖥️ Code & Resources
+
+[View on GitHub](https://github.com/panagiotamoraiti/continual-learning-challenge-2024)
+
+---
