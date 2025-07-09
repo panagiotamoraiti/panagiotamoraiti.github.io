@@ -47,8 +47,8 @@ It is fair to assume that data is not cheap to acquire, store and label in real-
 
 ### 🎥 Slides & Video Presentation
 
-- [Slides (Google Drive)](https://drive.google.com/file/d/1Mkacx4i0VreI_Zceod7Jrc4TJJ08VG87/view?usp=drive_link)  
-- [Video Presentation (Google Drive)](https://drive.google.com/file/d/15bXLzPjYiOdZcdnyxudpPCxTrmuyIVdQ/view?usp=drive_link)  
+- [Slides](https://drive.google.com/file/d/1Mkacx4i0VreI_Zceod7Jrc4TJJ08VG87/view?usp=drive_link)  
+- [Video Presentation](https://drive.google.com/file/d/15bXLzPjYiOdZcdnyxudpPCxTrmuyIVdQ/view?usp=drive_link)  
 
 ---
 
