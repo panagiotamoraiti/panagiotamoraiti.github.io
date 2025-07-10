@@ -49,6 +49,6 @@ This project introduces a continual test-time adaptation method designed to hand
 
 ### 🖥️ Code & Implementation
 
-Explore the full implementation and experiments in the [View on GitHub]().
+Explore the full implementation on [GitHub]().
 
 ---
