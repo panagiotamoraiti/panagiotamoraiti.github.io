@@ -9,7 +9,7 @@ date: 2025-05-15
 ## 🧠📊 Continual Learning Challenge - CLVISION 2024 - 5th CLVISION CVPR Workshop
 
 **Challenge Participation**  
-We participated in the Continual Learning Challenge 2024, aiming at pushing the boundaries of continual learning techniques, addressing catastrophic forgetting, and improving model adaptation on sequential vision tasks.
+We (in collaboration with Efstathios Karypidis) participated in the Continual Learning Challenge 2024, aiming at pushing the boundaries of continual learning techniques, addressing catastrophic forgetting, and improving model adaptation on sequential vision tasks.
 
 ---
 

@@ -9,7 +9,7 @@ date: 2024-08-25
 ## Jaco Robotic Arm – Pick & Place with Computer Vision 🤖
 
 **Internship Project @ Athena RC**  
-We developed a simulation pipeline for a Kinova Jaco 6‑DOF robotic arm, integrating Unity and ROS with computer vision to perform real-world tasks like **leaf disease detection** and **garbage sorting**.
+We (in collaboration with Giannakopoulou Lamprini) developed a simulation pipeline for a Kinova Jaco 6‑DOF robotic arm, integrating Unity and ROS with computer vision to perform real-world tasks like **leaf disease detection** and **garbage sorting**.
 
 ---
 

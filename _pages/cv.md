@@ -31,7 +31,7 @@ redirect_from:
 ### **Tech Hive Labs**, Athens, Greece  
 *Research Engineer* (*Sept. 2024 – Present*)  
 - Participated in European Union funded projects  
-- Developed industrial products  
+- Developed industrial products (visual inspection, production line monitoring, etc.)  
 - Conducted hardware research  
 - Optimized models for edge devices
 
