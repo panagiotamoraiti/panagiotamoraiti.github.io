@@ -68,14 +68,14 @@ redirect_from:
 ## 📚 Publications
 
 - **A Comprehensive Framework for Automated Quality Control in the Automotive Industry**  
-  *IEEE/ASME AIM Conference* — *Jul. 2025*  
+  *IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2025)* — *Jul. 2025*  
 
 - **[Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data - 4th Place Solution](https://arxiv.org/abs/2503.15697)**  
   *arXiv* — *Mar. 2025*  
   Achieved 4th place and presented at the [CLVision CVPR workshop](https://sites.google.com/view/clvision2024)  
 
 - **[Mean Teacher with Stochastic Restoration and Contrastive Learning for Domain Adaptive Object Detection](https://dl.acm.org/doi/10.1145/3688671.3688755)**  
-  *SETN, AI Conference* — *Dec. 2024*
+  *Hellenic Conference on Artificial Intelligence (SETN)* — *Dec. 2024*
 
 - **[Continual Learning for Object Detection](https://drive.google.com/file/d/1GbQM4dtU-hiPv5iGilRl1_kHJ-4HBvYB/view)**  
   *Diploma Dissertation Thesis* — *Jul. 2024*

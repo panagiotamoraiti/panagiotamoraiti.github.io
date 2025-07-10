@@ -5,7 +5,7 @@ category: manuscripts
 # permalink: /publication/2010-10-01-paper-title-number-2
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-07-15
-venue: 'IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2025)'
+venue: 'IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2025)'
 paperurl: ''
 videourl: ''
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
