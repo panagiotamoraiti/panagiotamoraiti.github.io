@@ -68,7 +68,7 @@ redirect_from:
 ## 📚 Publications
 
 - **A Comprehensive Framework for Automated Quality Control in the Automotive Industry**  
-  *IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2025)* — *Jul. 2025*  
+  *IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)* — *Jul. 2025*  
 
 - **[Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data - 4th Place Solution](https://arxiv.org/abs/2503.15697)**  
   *arXiv* — *Mar. 2025*  
