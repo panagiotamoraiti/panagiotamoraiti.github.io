@@ -9,7 +9,7 @@ date: 2025-07-25
 ## Continual Test-Time Adaptation - Domain Adaptation 🧠🔄
 
 **Dissertation Thesis Project**  
-Supervisor: Professor Ioannis Pratikakis
+Supervisor: Professor Ioannis Pratikakis  
 This project introduces a continual test-time adaptation method designed to handle domain shifts in real-world scenarios by adapting models on the fly without access to source data or retraining (Online Adaptation).
 
 ---
