@@ -7,7 +7,7 @@ category: manuscripts
 date: 2025-07-15
 venue: 'IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)'
 paperurl: ''
-videourl: ''
+videourl: 'https://drive.google.com/file/d/1gWDfHeKe5zzJHFwZkajY-ELG6rwkeXSI/view?usp=drive_link'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
