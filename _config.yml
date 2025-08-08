@@ -48,6 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
+  huggingface:     : "https://huggingface.co/PanagiotaMoraiti"
   kaggle           : "giotamoraiti"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +64,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://medium.com/@panagiotamoraiti2"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
