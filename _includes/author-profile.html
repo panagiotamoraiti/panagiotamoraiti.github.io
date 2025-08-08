@@ -74,6 +74,13 @@
           </a>
         </li>
       {% endif %}
+      {% if author.medium %}
+      <li>
+        <a href="{{ author.medium }}">
+          <i class="fab fa-fw fa-medium icon-pad-right" aria-hidden="true"></i>Medium
+        </a>
+      </li>
+    {% endif %}
       {% if author.kaggle %}
         <li>
           <a href="https://kaggle.com/{{ author.kaggle }}">
