@@ -18,6 +18,4 @@ Interested in robotics and artificial intelligence. Currently seeking opportunit
 
 - Computer Vision Applications (object detection, tracking, etc.)
 - Vision-Language Models (VLMs)
-- Robot Navigation through Visual Perception
-- Continual Learning
-- Domain Adaptation
+- Robotic Perception

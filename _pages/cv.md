@@ -29,7 +29,7 @@ redirect_from:
 ## 💼 Experience
 
 ### **Tech Hive Labs**, Athens, Greece  
-*Research Engineer* (*Sept. 2024 – Present*)  
+*Robotics and Computer Vision Engineer* (*Sept. 2024 – Present*)  
 - Participated in European Union funded projects  
 - Developed industrial products (visual inspection, production line monitoring, etc.)  
 - Conducted hardware research  
@@ -67,7 +67,7 @@ redirect_from:
 
 ## 📚 Publications
 
-- **A Comprehensive Framework for Automated Quality Control in the Automotive Industry**  
+- **[A Comprehensive Framework for Automated Quality Control in the Automotive Industry](https://arxiv.org/abs/2512.05579)**  
   *IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)* — *Jul. 2025*  
 
 - **[Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data - 4th Place Solution](https://arxiv.org/abs/2503.15697)**  
