@@ -1,6 +1,6 @@
 ---
 title: " Roboflow Technical Articles"
-excerpt: "This is a collection of my contributions to the Roboflow blog.<br/><img src='/images/roboflow.png'>"
+excerpt: "This is a collection of my contributions to the Roboflow blog.<br/><img src='/images/roboflow.png' width='1200'>"
 collection: portfolio
 image: /images/roboflow.png
 date: 2026-03-16
