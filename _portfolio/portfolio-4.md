@@ -3,7 +3,8 @@ title: " Roboflow Technical Articles"
 excerpt: "This is a collection of my contributions to the Roboflow blog.<br/><img src='/images/roboflow.png'>"
 collection: portfolio
 image: /images/roboflow.png
-date: 2026-03-16 - Present
+date: 2026-03-16
+period: "March 2026 - Present"
 ---
 
 ### 🚀 Roboflow Technical Articles
@@ -18,6 +19,6 @@ date: 2026-03-16 - Present
 
 ---
 
-**You can also explore my articles on Medium: [Medium ARticles](https://medium.com/@panagiotamoraiti2)**
+**You can also explore my articles on Medium: [Medium Articles](https://medium.com/@panagiotamoraiti2)**
 
 ---
