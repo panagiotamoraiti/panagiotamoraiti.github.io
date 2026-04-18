@@ -1,6 +1,6 @@
 ---
 title: " Continual Test-Time Adaptation (TTA)"
-excerpt: "This project introduces a continual test-time adaptation method designed to handle domain shifts in real-world scenarios by adapting models on the fly without access to source data or retraining (Online Adaptation). <br/><img src='/images/TTA.png'>"
+excerpt: "This project introduces a continual test-time adaptation method designed to handle domain shifts in real-world scenarios by adapting models on the fly without access to source data or retraining (Online Adaptation). <br/><img src='/images/TTA.png' style='width:1000px;'>"
 collection: portfolio
 image: /images/TTA.png
 date: 2025-07-25

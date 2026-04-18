@@ -1,6 +1,6 @@
 ---
 title: " Jaco Robotic Arm - ROS/Unity Simulation"
-excerpt: "We developed a simulation pipeline for a Kinova Jaco 6‑DOF robotic arm, integrating Unity and ROS with computer vision to perform real-world tasks like **leaf disease detection** and **garbage sorting**.<br/><img src='/images/jaco arm.png'>"
+excerpt: "We developed a simulation pipeline for a Kinova Jaco 6‑DOF robotic arm, integrating Unity and ROS with computer vision to perform real-world tasks like **leaf disease detection** and **garbage sorting**.<br/><img src='/images/jaco arm.png' style='width:1000px;'>"
 collection: portfolio
 image: /images/jaco arm.png
 date: 2024-08-25
