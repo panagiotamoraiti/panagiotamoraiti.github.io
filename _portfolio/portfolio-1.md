@@ -42,6 +42,7 @@ This project introduces a continual test-time adaptation method designed to hand
 
 - **Dissertation Thesis** — [Publication](https://drive.google.com/file/d/1GbQM4dtU-hiPv5iGilRl1_kHJ-4HBvYB/view) / [Slides](https://drive.google.com/file/d/1DK9BP0utCmkkmUeTElhVgNIEqPZ7OXYR/view)  
 - **Mean Teacher with Stochastic Restoration and Contrastive Learning for Domain Adaptive Object Detection** — [Publication](https://dl.acm.org/doi/10.1145/3688671.3688755) / [Slides](https://drive.google.com/file/d/1gLVk0At9F4ERdx0Os-nIiIWUMYic8HTo/view)  
+- **Continual Test-Time Domain Adaptation for Object Detection via Contrastive Mean Teacher and Stochastic Restoration** — [Publication](https://doi.org/10.1177/30504554251394323)  
 
 ---
 
