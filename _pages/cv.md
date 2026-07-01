@@ -29,11 +29,12 @@ redirect_from:
 ## 💼 Experience
 
 ### **Tech Hive Labs**, Athens, Greece  
-*Robotics and Computer Vision Engineer* (*Sept. 2024 – Present*)  
-- Participated in European Union funded projects  
-- Developed industrial products (visual inspection, production line monitoring, etc.)  
-- Conducted hardware research  
-- Optimized models for edge devices
+*Computer Vision Engineer* (*Sept. 2024 – Present*)  
+- Develops and integrates AI vision systems across EU-funded research projects, including SoliDAIR, Elder, Navir, and Shepherd  
+- Designs and deploys end-to-end computer vision pipelines for diverse applications (defect detection, animal health monitoring, object counting, tracking)  
+- Optimizes and deploys models for edge devices and cloud platforms  
+- Builds industrial visual inspection solutions for manufacturing quality control and production line monitoring  
+- Selects and integrates imaging hardware (industrial cameras, thermal cameras, edge devices) for computer vision applications
 
 ### **Athena Research Center**, Xanthi, Greece  
 *Research Internship* (*Jul. 2023 – Aug. 2023*)  
@@ -42,12 +43,10 @@ redirect_from:
 
 ### **Democritus Industrial Robotics**, Xanthi, Greece  
 *Volunteering* (*Aug. 2021 – Nov. 2022*)  
-- Implemented navigation algorithms using ROS  
-- Fine-tuned ROS parameters to enhance robot mobility
+- Implemented navigation algorithms using ROS
 
 ### **Democritus Racing Team**, Xanthi, Greece  
 *Volunteering* (*Nov. 2019 – Sept. 2021*)  
-- Created electrical drawings  
 - Developed low voltage circuits and PCBs
 
 ---
@@ -56,8 +55,8 @@ redirect_from:
 
 - **Programming Languages:** Python, C++, C, Java, Matlab, Assembly/System Verilog  
 - **Frameworks & Libraries:** PyTorch, TensorFlow, TensorRT/ONNX, OpenCV, Scikit-learn  
-- **Tools & Platforms:** ROS/Gazebo, Unity, Jetson Nano, Linux, Git, LaTeX  
-- **Other Technical Skills:** Parallel Programming, CUDA, OpenMP/MPI, OpenGL/Libigl  
+- **Tools & Platforms:** ROS/Gazebo, Unity, Jetson Nano, Linux, Git, LaTeX, FastAPI  
+- **Other Technical Skills:** Multithreading/Multiprocessing, Parallel Programming, CUDA, OpenMP/MPI, OpenGL/Libigl  
 
 ## 🌐 Languages
 - Greek (Native)
@@ -66,6 +65,9 @@ redirect_from:
 ---
 
 ## 📚 Publications
+
+- **[Continual Test-Time Domain Adaptation for Object Detection via Contrastive Mean Teacher and Stochastic Restoration](https://doi.org/10.1177/30504554251394323)**  
+  *The European Journal on Artificial Intelligence* — *Nov. 2025*  
 
 - **[A Comprehensive Framework for Automated Quality Control in the Automotive Industry](https://arxiv.org/abs/2512.05579)**  
   *IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)* — *Jul. 2025*  
