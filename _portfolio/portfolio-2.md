@@ -4,7 +4,6 @@ excerpt: "We participated in the Continual Learning Challenge 2024, aiming at pu
 collection: portfolio
 image: /images/CLVISION24.png
 date: 2025-05-15
-period: "March - May 2025"
 ---
 
 ## 🧠📊 Continual Learning Challenge - CLVISION 2024 - 5th CLVISION CVPR Workshop
