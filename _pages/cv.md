@@ -53,10 +53,11 @@ redirect_from:
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, C++, C, Java, Matlab, Assembly/System Verilog  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, TensorRT/ONNX, OpenCV, Scikit-learn  
-- **Tools & Platforms:** ROS/Gazebo, Unity, Jetson Nano, Linux, Git, LaTeX, FastAPI  
-- **Other Technical Skills:** Multithreading/Multiprocessing, Parallel Programming, CUDA, OpenMP/MPI, OpenGL/Libigl  
+- **Programming Languages:** Python, C++  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, Scikit-learn, TensorRT/ONNX, FastAPI, Multithreading/Multiprocessing  
+- **Tools & Platforms:** Jetson Nano, ROS/Gazebo, Linux, Git, LaTeX  
+- **Other Technical Skills:** CUDA, OpenMP/MPI, OpenGL/Libigl  
+- **Basic Knowledge:** Unity, C, Java, Matlab, Assembly/System Verilog  
 
 ## 🌐 Languages
 - Greek (Native)
