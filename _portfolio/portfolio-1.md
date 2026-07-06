@@ -48,6 +48,6 @@ This project introduces a continual test-time adaptation method designed to hand
 
 ### 🖥️ Code & Implementation
 
-Explore the full implementation on [GitHub](#).
+Explore the full implementation on [GitHub](https://github.com/panagiotamoraiti/shift-tta).
 
 ---
